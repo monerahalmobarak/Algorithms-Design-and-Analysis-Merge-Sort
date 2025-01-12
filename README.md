@@ -48,10 +48,3 @@ This project explores the design and analysis of the **Merge Sort algorithm**, a
 
 - **References:**  
   - GeeksforGeeks, Medium, and "Introduction to Algorithms" by Cormen et al.
-
-#### **Contact**
-For queries or feedback, feel free to contact the contributors via their academic emails as provided in the project files.
-
----
-
-This README serves as a guide for understanding and leveraging the materials provided in the project for learning or teaching purposes.
